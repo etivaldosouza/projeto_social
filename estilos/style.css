@@ -74,6 +74,7 @@ section#redes-sociais img:hover {
       height: 20px;
     }
     main {
-        height: 80vh;
+        height: 30vh;
+        width: 30vw;
     }
 }
