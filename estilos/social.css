@@ -43,7 +43,7 @@ a:hover {
 }
 
 
-@media (max-width: 720px) {
+@media (max-width: 480px) {
   
     a {
       width: 20px;
@@ -51,7 +51,7 @@ a:hover {
     }
 
     main {
-        height: 93vh;
+        height: 50vh;
     }
 
 }
