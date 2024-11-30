@@ -67,3 +67,13 @@ section#redes-sociais img:hover {
     transition: .3;
 }
 
+@media (max-width: 720px) {
+  
+    a {
+      width: 20px;
+      height: 20px;
+    }
+    main {
+        height: 93vh;
+    }
+}
