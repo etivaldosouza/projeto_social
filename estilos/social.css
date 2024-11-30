@@ -36,8 +36,22 @@ a:hover {
   
     a {
       width: 20px;
-      height: 100px;
+      height: 20px;
     }
 
+
+}
+
+
+@media (max-width: 720px) {
+  
+    a {
+      width: 20px;
+      height: 20px;
+    }
+
+    main {
+        height: 100vh;
+    }
 
 }
