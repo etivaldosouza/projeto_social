@@ -23,7 +23,7 @@ main {
     
     position: relative;
     height: 100vh;
-    min-width: 300px;/*para os icones ñ ficarem colado no celular ao diminuir a tela*/
+    max-width: 800px;/*para os icones ñ ficarem colado no celular ao diminuir a tela*/
     padding-left: 10px;/*coloca esse parâmetro p/quando reduzir o tmanho na tela ficar c/ espaços nas laterais.*/
     padding-right: 10px;
     margin: auto;
