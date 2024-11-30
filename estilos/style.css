@@ -68,3 +68,11 @@ section#redes-sociais img:hover {
 }
 
 
+@media (max-width: 480px) {
+  
+    a {
+      width: 20px;
+      height: 20px;
+    }
+
+}
