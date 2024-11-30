@@ -23,6 +23,10 @@ main {
     
     position: relative;
     height: 100vh;
+    max-width: 800px;/*para os icones ñ ficarem colado no celular ao diminuir a tela*/
+    padding-left: 10px;/*coloca esse parâmetro p/quando reduzir o tmanho na tela ficar c/ espaços nas laterais.*/
+    padding-right: 10px;
+    margin: auto;
     
 }
 
@@ -45,6 +49,7 @@ iframe#tela {
 }
 
 section#redes-sociais {
+
     text-align: right; /*joga os itens a direita da tela*/
 }
 
