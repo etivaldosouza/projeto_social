@@ -32,14 +32,4 @@ a:hover {
     background-color: red;
 }
 
-@media (max-width: 480px) {
-  
-    a {
-      width: 20px;
-      height: 20px;
-    }
-
-
-}
-
 
